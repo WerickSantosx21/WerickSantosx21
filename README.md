@@ -59,14 +59,14 @@ status:     "Sempre aprendendo algo novo 🚀"
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ThiagoFerfoglia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Werick Santos&layout=compact&langs_count=8&theme=dracula&hide_border=true" />
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=WerickSantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" />
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=WerickSantos&layout=compact&langs_count=8&theme=dracula&hide_border=true" />
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ThiagoFerfoglia&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D)
+![GitHub Streak](https://streak-stats.demolab.com?user=WerickSantos&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
 </div>
 
@@ -76,7 +76,7 @@ status:     "Sempre aprendendo algo novo 🚀"
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ThiagoFerfoglia&theme=dracula&no-frame=true&margin-w=8)](https://github.com/ThiagoFerfoglia)
+[![trophy](https://github-profile-trophy.vercel.app/?username=WerickSantos&theme=dracula&no-frame=true&margin-w=8)](https://github.com/ThiagoFerfoglia)
 
 </div>
 
@@ -86,7 +86,7 @@ status:     "Sempre aprendendo algo novo 🚀"
 
 <div align="center">
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ThiagoFerfoglia&theme=dracula&hide_border=true)](https://github.com/ThiagoFerfoglia)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WeickSantos&theme=dracula&hide_border=true)](https://github.com/ThiagoFerfoglia)
 
 </div>
 
