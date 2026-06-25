@@ -60,7 +60,7 @@ status:     "Sempre aprendendo algo novo 🚀"
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ThiagoFerfoglia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ThiagoFerfoglia&layout=compact&langs_count=8&theme=dracula&hide_border=true" />
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Werick Santos&layout=compact&langs_count=8&theme=dracula&hide_border=true" />
 
 </div>
 
