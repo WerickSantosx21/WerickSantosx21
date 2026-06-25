@@ -16,7 +16,7 @@
 
 <br/>
 
-[![GitHub followers](https://custom-icon-badges.demolab.com/github/followers/WerickSantos?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Seguidores&logoColor=white)](https://github.com/wericksantos?tab=followers)
+[![GitHub followers](https://custom-icon-badges.demolab.com/github/followers/wericksantosx21?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Seguidores&logoColor=white)](https://github.com/wericksantosx21?tab=followers)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/werick-santos-x7)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wericksantos__/)
 
@@ -35,8 +35,3 @@ faculdade:  Universidade Nove de Julho (UNINOVE)
 interesses: [tecnologia, games, suporte técnico, desenvolvimento]
 instagram:  @wericksantos__
 status:     "Sempre aprendendo algo novo 🚀"
-🛠️ Linguagens & Tecnologias
-📊 GitHub Stats
-🏆 Troféus
-📈 Atividade
-"O conhecimento é a única coisa que ninguém pode tirar de você."
